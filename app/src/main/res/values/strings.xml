@@ -1,0 +1,9 @@
+<resources>
+    <!--Titulos -->
+    <string name="app_name">P2eijd</string>
+    <string name="titulo1">TESOEM</string>
+    <string name="titulo2">Menu Principal</string>
+    <string name="titulo3">Operaciones Basicas</string>
+    <!--Botones -->
+    <string name="btnsiguiente">Siguiente</string>
+</resources>
